@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -23,7 +23,7 @@ a {
   text-decoration: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Patterns - reusable parts of our design
 
@@ -36,7 +36,7 @@ Patterns - reusable parts of our design
   white-space: nowrap;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Menu trigger
 
@@ -183,7 +183,7 @@ Menu trigger
   }
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Projects
 
@@ -395,7 +395,7 @@ Projects
   width: 100%;
   top: calc(50% - 20px);
   left: 0;
-  color: #ffffff;
+  color: #a8ae7e;
   -webkit-transform: translateY(-37.5vh);
   -moz-transform: translateY(-37.5vh);
   -ms-transform: translateY(-37.5vh);
@@ -678,7 +678,7 @@ li.selected .cd-project-title,
     transform: translateX(-50%) scale(1);
   }
 }
-/* -------------------------------- 
+/* --------------------------------
 
  Navigation
 
@@ -761,7 +761,7 @@ li.selected .cd-project-title,
   }
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
 JavaScript Disabled
 
